@@ -1,1 +1,1 @@
-# canteen-management-system
+# Major-Project
